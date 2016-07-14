@@ -8,7 +8,6 @@
 
 /**
  * Class TimeDifferencer
- * @package AppBundle\Model
  */
 class TimeDifferencer
 {
