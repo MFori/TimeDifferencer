@@ -11,7 +11,7 @@ Output e.g. Just now / 10 minutes / 2 hours / 3 days / 14. July 2016
 TimeDefferencer::getDifference($start, $end = null, $parameters = array())
 ```
 ####start: DateTime
-####Oend(optional): DateTime / null - default is current date
+####end(optional): DateTime / null - default is current date
 ####parameters(optional): array
 - lang - cs/en, default = cs
 - max_days - max days and then full date, default = 5
